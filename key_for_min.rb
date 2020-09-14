@@ -8,7 +8,7 @@ def key_for_min_value(name_hash)
     key.last > value.last ? value : key 
   end 
   if name_hash == {}
-    
+    low_key 
     end 
   end 
   low_key 
